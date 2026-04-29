@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CampaignForge\\CampaignForge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00708B3E-57F7-4AF7-9724-91C9C4B9543A}|CampaignForge\\CampaignForge.csproj|c:\\campaignforge\\campaignforge\\campaignforge\\models\\system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00708B3E-57F7-4AF7-9724-91C9C4B9543A}|CampaignForge\\CampaignForge.csproj|solutionrelative:campaignforge\\models\\system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00708B3E-57F7-4AF7-9724-91C9C4B9543A}|CampaignForge\\CampaignForge.csproj|c:\\campaignforge\\campaignforge\\campaignforge\\usercontrol_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00708B3E-57F7-4AF7-9724-91C9C4B9543A}|CampaignForge\\CampaignForge.csproj|solutionrelative:campaignforge\\usercontrol_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00708B3E-57F7-4AF7-9724-91C9C4B9543A}|CampaignForge\\CampaignForge.csproj|c:\\campaignforge\\campaignforge\\campaignforge\\usercontrol_campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00708B3E-57F7-4AF7-9724-91C9C4B9543A}|CampaignForge\\CampaignForge.csproj|solutionrelative:campaignforge\\usercontrol_campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00708B3E-57F7-4AF7-9724-91C9C4B9543A}|CampaignForge\\CampaignForge.csproj|c:\\campaignforge\\campaignforge\\campaignforge\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00708B3E-57F7-4AF7-9724-91C9C4B9543A}|CampaignForge\\CampaignForge.csproj|solutionrelative:campaignforge\\form_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "System.cs",
+              "DocumentMoniker": "C:\\CampaignForge\\CampaignForge\\CampaignForge\\Models\\System.cs",
+              "RelativeDocumentMoniker": "CampaignForge\\Models\\System.cs",
+              "ToolTip": "C:\\CampaignForge\\CampaignForge\\CampaignForge\\Models\\System.cs",
+              "RelativeToolTip": "CampaignForge\\Models\\System.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:25:25.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl_System.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CampaignForge\\CampaignForge\\CampaignForge\\UserControl_System.cs",
+              "RelativeDocumentMoniker": "CampaignForge\\UserControl_System.cs",
+              "ToolTip": "C:\\CampaignForge\\CampaignForge\\CampaignForge\\UserControl_System.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CampaignForge\\UserControl_System.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:13:36.495Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CampaignForge\\CampaignForge\\CampaignForge\\Form_Main.cs",
+              "RelativeDocumentMoniker": "CampaignForge\\Form_Main.cs",
+              "ToolTip": "C:\\CampaignForge\\CampaignForge\\CampaignForge\\Form_Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CampaignForge\\Form_Main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T16:13:31.021Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl_Campaign.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\CampaignForge\\CampaignForge\\CampaignForge\\UserControl_Campaign.cs",
+              "RelativeDocumentMoniker": "CampaignForge\\UserControl_Campaign.cs",
+              "ToolTip": "C:\\CampaignForge\\CampaignForge\\CampaignForge\\UserControl_Campaign.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CampaignForge\\UserControl_Campaign.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:46:33.125Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
